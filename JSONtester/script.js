@@ -14,3 +14,5 @@ console.log(new_obj)
 console.log(new_obj['category'])
 console.log(new_obj.models[0].name)
 console.log(new_obj['models'][1]['name'])
+
+alert('Please check the console!')
