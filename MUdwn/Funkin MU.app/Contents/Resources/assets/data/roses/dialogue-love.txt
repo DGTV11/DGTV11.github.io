@@ -1,0 +1,9 @@
+[178[ [179[ [223[ [216[ |Lunchbox| *0* =1= #pixel_mad#  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~  <0.08< >4> (0.2( )5) {0.83{ }5} `hand_textbox` ~clickText~
+:senpai-angry: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.06; |true| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      OH YOU THINK YOU CAN DEFEAT ME???
+:bf-pixel: !default! [Pixel Arial 11 Bold[ ]48] *0* =0= +0+ -0- <0.2< >0> ;0.2; |false| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Bah!
+:senpai-angry: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.06; |true| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      HOW NAIVE! 
+:senpai-angry: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.06; |true| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Don't even THINK about playing GAMES with ME! I WILL TAKE YOUR FREAKING "GIRLFREND" FROM YOU!!!
+:senpai-angry: !default! [Pixel Arial 11 Bold[ ]40] *0* =0.005= +16+ -0- <5< >0> ;0.06; |true| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      SHE WILL GET CLOBBERED UNTIL SHE NEVER SHOWS HER DIRTY LITTLE LIP EVER AGAI-
+:gf-pixel: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.04; |false| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Nah. I stay where I stay. With my little cutie pie.
+:bf-pixel: !default! [Pixel Arial 11 Bold[ ]32] *0* =0= +0+ -0- <0< >0> ;0.2; |false| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      Bah! >;D
+:senpai-angry: !default! [Pixel Arial 11 Bold[ ]54] *0* =0= +0+ -0- <0< >0> ;0.09; |true| #pixel_mad# ^pixelText^ !#FF3F2021! ?#FFD89494? .. ~~      OH YOU TWO ARE SO [CENSOURED] DEAD ON THE SPOT!
